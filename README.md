@@ -26,9 +26,7 @@ Nosso propósito é entregar tecnologia no momento certo, com precisão, estrat�
 ## 🚀 O que fazemos
 
 - 💻 Sistemas web sob medida  
-- ⚙️ Plataformas SaaS escaláveis  
-- 🔗 Integrações com APIs  
-- 🤖 Automação de processos  
+- ⚙️ Plataformas SaaS escaláveis    
 - 🧩 Soluções inteligentes personalizadas  
 
 ---
